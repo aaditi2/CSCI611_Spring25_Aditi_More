@@ -9,3 +9,5 @@ Download the `.ipynb` file and open it in a Python-compatible notebook environme
 The notebook has already been run and includes outputs for all steps. You may re-run the cells if you wish to experiment, but it is not required if you just want to view the results.
 
 The report pdf summarizes the implementation steps, the experimental findings, and the reasoning behind the submitted output.
+
+You can see all the output images in the .ipynb file itself.
